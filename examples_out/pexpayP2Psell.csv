@@ -1,0 +1,4 @@
+,Advertisers (completion rate),Advertisers (completion rate),Advertisers (completion rate),Price,Price,Price,Available,Available,Limit Amount & Quantity,Limit Amount & Quantity,Limit Amount & Quantity,Limit Amount & Quantity,
+,Name,Orders,Completion,Price,Fiat,Comission,Available,Asset,minA,minQ,maxA,maxQ,Payment
+0,BankNote,14,12,89.27,RUB,0.00000000,3000.00,USDT,10000.00,112.01,100000.00,1120.19,Alfa-bank
+1,KRIP-TORG,9,0,80.21,RUB,0.00000000,5000.00,USDT,10000.00,124.67,100000.00,1246.72,Raiffeisenbank
