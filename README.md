@@ -1,6 +1,8 @@
 # pandas_p2p_curData
 
 
+Код парсит данные с криптобирж по определенным лимитам и выводит в виде pandas df и csv
+
 grab json data from Binance,Pexpay,Huobi,Bybit and write in csv
 
 
